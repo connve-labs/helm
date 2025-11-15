@@ -31,13 +31,13 @@ helm install my-flowgen ./charts/flowgen \
 
 ## Available Charts
 
-- **[flowgen](./charts/flowgen)**
+- **[flowgen](https://github.com/connve-labs/flowgen/blob/main/charts/flowgen/Chart.yaml)**
 
 ## Configuration
 
 Each chart has its own `values.yaml` file with configurable options. See the individual chart directories for details:
 
-- [flowgen values](./charts/flowgen/values.yaml)
+- [flowgen values](https://github.com/connve-labs/flowgen/blob/main/charts/flowgen/values.yaml)
 
 ## Development
 
